@@ -32,7 +32,7 @@ namespace catchmouse
             newButton.Click += new EventHandler(button_Click);
             PictureBox welcome = new PictureBox();
             welcome.Image = Image.FromFile("C:\\Users\\012614\\source\\repos\\catchmouse\\catchmouse\\image\\歡迎光臨.png");
-            welcome.SizeMode = PictureBoxSizeMode.StretchImage;// 将图像缩放以适应 PictureBox 大小
+            welcome.SizeMode = PictureBoxSizeMode.StretchImage;// 將圖像缩放以適應 PictureBox 大小
             welcome.Size = new Size(350,350);
             welcome.Location = new Point(210, 50);
             this.Controls.Add(welcome);
@@ -41,7 +41,7 @@ namespace catchmouse
         {
             Form messageForm = new Form();
             messageForm.Size = new Size(300,200);
-            messageForm.StartPosition = FormStartPosition.CenterParent;//显示该窗体时，它会相对于父窗体的中心位置进行定位
+            messageForm.StartPosition = FormStartPosition.CenterParent;//顯示该窗體時，它會相對於父窗體的中心位置進行定位
 
             Label label = new Label();
             label.Text = "請選擇挑戰難度:";
@@ -68,23 +68,23 @@ namespace catchmouse
         }
         private void button1_Click(object sender,EventArgs e)
         {
-            // 关闭当前的 Form2
+            // 關閉當前的 Form2
             this.Hide();
             // 新增現有的Form1實例
             速度10 form1 = new 速度10();
 
-            //关闭 Form2 当 Form1 关闭时
+            //關閉 Form2 當 Form1 關閉時
             form1.FormClosed += (s, args) => this.Close();
             form1.Show();
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            // 关闭当前的 Form2
+            // 關閉當前的 Form2
             this.Hide();
             // 新增現有的Form1實例
             速度100 form3 = new 速度100();
 
-            //关闭 Form2 当 Form1 关闭时
+            //關閉 Form2 當 Form1 關閉時
             form3.FormClosed += (s, args) => this.Close();
             form3.Show();
         }

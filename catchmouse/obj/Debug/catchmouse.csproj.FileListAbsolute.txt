@@ -8,3 +8,13 @@ C:\Users\012614\source\repos\catchmouse\catchmouse\obj\Debug\catchmouse.csproj.G
 C:\Users\012614\source\repos\catchmouse\catchmouse\obj\Debug\catchmouse.csproj.CoreCompileInputs.cache
 C:\Users\012614\source\repos\catchmouse\catchmouse\obj\Debug\catchmouse.exe
 C:\Users\012614\source\repos\catchmouse\catchmouse\obj\Debug\catchmouse.pdb
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\bin\Debug\catchmouse.exe.config
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\bin\Debug\catchmouse.exe
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\bin\Debug\catchmouse.pdb
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.csproj.AssemblyReference.cache
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.Properties.Resources.resources
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.csproj.GenerateResource.cache
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.csproj.CoreCompileInputs.cache
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.exe
+C:\Users\012614\Documents\GitHub\catchmouse\catchmouse\obj\Debug\catchmouse.pdb
