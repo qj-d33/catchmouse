@@ -78,7 +78,7 @@ namespace catchmouse
                 mouseSpeedY = random.Next(-5, 6);//隨機Y方向速度
             }
 
-            // 更新老鼠的位置
+            // 更新老鼠的位置(每次更新)
             mouse.Left += mouseSpeedX;
             mouse.Top += mouseSpeedY;
             if (mouse.Left <= 0 || mouse.Right >= this.ClientSize.Width)
